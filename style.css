@@ -13,6 +13,9 @@ html {
 
 body {
     background-image: url(./graphics/Animated\ Shape\.svg);
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
 }
 
 nav {
